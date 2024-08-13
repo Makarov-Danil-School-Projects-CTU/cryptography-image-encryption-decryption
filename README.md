@@ -1,3 +1,5 @@
+Keywords: C++, Open SSL
+
 📝 Task Objective:
 
 Your task is to implement two (or more) functions (not a full program) that can encrypt and decrypt an image file in TGA format.
